@@ -123,3 +123,6 @@ dockerのipアドレス:3000/welcome/index
 ```
 docker-compose stop
 ```
+
+# 参考サイト
+http://railsguides.jp/getting_started.html
