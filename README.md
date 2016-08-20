@@ -101,18 +101,18 @@ rails generate controller welcome index
 
 Ctrl + P + Qでコンテナからでる。
 
-## 5. ファイル確認
+## 5. ファイルができているか確認
 
 app/controllers/welcome_controller.rb
 config/routes.rb
 
-routes.rbにあるパスも確認
+routes.rbにあるパス確認
 
 ```
   get 'welcome/index'
 ```
 
-## 6. Hello World
+## 6. Hello Worldが表示されているのを確認
 
 ```
 dockerのipアドレス:3000/welcome/index
@@ -124,5 +124,8 @@ dockerのipアドレス:3000/welcome/index
 docker-compose stop
 ```
 
-# 参考サイト
+## 8. rails頑張ろう！！
+
+とりあえず、ここ見ながら、やればいいよー
+
 http://railsguides.jp/getting_started.html
