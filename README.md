@@ -65,7 +65,7 @@ docker-compose up
 docker-compose up -d
 ```
 
-## 2. 
+## 2. コンテナ確認
 
 コンテナ一覧表示
 
