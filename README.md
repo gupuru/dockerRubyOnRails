@@ -129,3 +129,7 @@ docker-compose stop
 とりあえず、ここ見ながら、やればいいよー
 
 http://railsguides.jp/getting_started.html
+
+## 補足
+
+基本的にrailsのコマンドはコンテナの中に入って実行ー
